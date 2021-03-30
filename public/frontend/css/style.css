@@ -1,0 +1,69 @@
+body{
+	background-color:  #ECECEB ;
+	padding: 20px;
+}
+
+a{
+
+}
+.container{
+	background-color: white;
+}
+.header-top{
+	background-color: #c1de7f;
+	padding: 10px;
+
+}
+
+.ourslider{
+	padding-top: 10px;
+	padding-bottom: 10px;	
+}
+
+.bani card-header{
+	margin: 0;
+}
+
+.bani card-body{
+	margin: 0;
+}
+
+.list-group{
+    margin-bottom: 5px;
+   
+}
+
+
+.sidebar{
+	background-color: #e5e5e3;
+	padding-top: 15px;
+	padding-bottom: 15px
+}
+.sidebar h5{
+	background-color:  #a0bcd0 ;
+	border: 1px solid  #e3f0e8 ;
+	padding: 0px;
+	margin-bottom: 0;
+
+}
+
+.card-body{
+	height: 150px
+}
+.panel-body{
+	
+}
+
+.lastnews{
+	background-color: gray;
+}
+
+.footer_part{
+	height: 250px;
+	color: white;
+	margin-bottom: 20px;
+	
+
+}
+
+
